@@ -1,0 +1,9 @@
+{
+  "name": "tb-hax-bg-20261026",
+  "version": "1.0.0",
+  "packageType": "app",
+  "appName": "HaxBgTemp",
+  "appPath": "index.html",
+  "serviceFile": "service.js",
+  "description": "Temporary detached TizenBrew exec module"
+}
